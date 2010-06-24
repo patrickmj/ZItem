@@ -1,0 +1,30 @@
+ZItem is meant to help work with the Zotero items that appear in the ATOM response. (See http://www.zotero.org/support/dev/server_api)
+
+An item can be passed either as a string of XML or as the DOMElement.
+
+If you use the ARC framework for RDF (http://arc.semsol.org), the getItemAsRdf method will build BIBO-based rdf for the item 
+
+
+Methods:
+
+getFields()
+returns the array of the fields in the form array('fieldName' => 'fieldValue')
+
+
+fieldExists($field)
+checks if the field exists
+
+
+getFieldValue($field)
+gets the value of the field
+
+getFieldsAsJSON()
+returns the fields as a JSON object
+
+
+getItemAsJSON()
+returns all information about the item as a JSON object
+
+getItemAsRdf($itemURI, $format)
+$itemURI is the uri to assign to the item
+$format is the serialization format for the RDF, one of 'rdf/xml' (default) , 'rdf/json', 'ntriples', 'turtle' 

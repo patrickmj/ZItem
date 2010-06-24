@@ -41,6 +41,13 @@ class ZItem {
     	return $this->fields;
     }
     
+    public function getFieldValue($field) {
+    	if($$this->fieldExists($field)) {
+    		return $this->fields[$field];
+    	}
+      return false;
+    }
+    
     public function getFieldsAsJSON() {
     	return json_encode($this->fields, true);
     }
@@ -387,5 +394,6 @@ class ZItem {
       }
     }    
 }
+
 
 ?>
