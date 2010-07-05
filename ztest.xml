@@ -1,0 +1,2282 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:zapi="http://zotero.org/ns/api">
+  <title>Zotero / patrickmj / Top-Level Items</title>
+  <id>http://zotero.org/users/34550/items/top</id>
+  <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/top"/>
+  <link rel="first" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/top"/>
+  <link rel="next" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/top?start=50"/>
+  <link rel="last" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/top?start=450"/>
+  <link rel="alternate" type="text/html" href="http://zotero.org/users/34550/items/top"/>
+  <zapi:totalResults>462</zapi:totalResults>
+  <zapi:apiVersion>1</zapi:apiVersion>
+  <updated>2010-06-11T17:42:53Z</updated>
+  <entry>
+    <title>Saxon diaries :: The ten most common XSLT programming mistakes</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/132676716</id>
+    <published>2010-06-11T17:42:53Z</published>
+    <updated>2010-06-11T17:42:53Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/132676716"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/132676716"/>
+    <zapi:itemID>132676716</zapi:itemID>
+    <zapi:itemType>webpage</zapi:itemType>
+    <zapi:creatorSummary/>
+    <zapi:numChildren>1</zapi:numChildren>
+    <zapi:numTags>0</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Web Page</td>
+          </tr>
+          <tr class="url">
+            <th style="text-align: right">URL</th>
+            <td>http://saxonica.blogharbor.com/blog/_archives/2010/6/11/4550606.html</td>
+          </tr>
+          <tr class="accessDate">
+            <th style="text-align: right">Accessed</th>
+            <td>2010-06-11 17:42:53</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Participating in the Bazaar: Sharing Code in the Digital Humanities</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/132676715</id>
+    <published>2010-06-11T17:27:18Z</published>
+    <updated>2010-06-11T17:27:18Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/132676715"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/132676715"/>
+    <zapi:itemID>132676715</zapi:itemID>
+    <zapi:itemType>webpage</zapi:itemType>
+    <zapi:creatorSummary>Boggs</zapi:creatorSummary>
+    <zapi:numChildren>0</zapi:numChildren>
+    <zapi:numTags>1</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Web Page</td>
+          </tr>
+          <tr class="creator">
+            <th style="text-align: right">Author</th>
+            <td>Jeremy Boggs</td>
+          </tr>
+          <tr class="url">
+            <th style="text-align: right">URL</th>
+            <td>http://clioweb.org/2010/06/10/participating-in-the-bazaar-sharing-code-in-the-digital-humanities/</td>
+          </tr>
+          <tr class="date">
+            <th style="text-align: right">Date</th>
+            <td>2010-06-10</td>
+          </tr>
+          <tr class="accessDate">
+            <th style="text-align: right">Accessed</th>
+            <td>2010-06-11 17:27:18</td>
+          </tr>
+          <tr class="language">
+            <th style="text-align: right">Language</th>
+            <td>English</td>
+          </tr>
+          <tr class="websiteTitle">
+            <th style="text-align: right">Website Title</th>
+            <td>ClioWeb</td>
+          </tr>
+          <tr class="shortTitle">
+            <th style="text-align: right">Short Title</th>
+            <td>Participating in the Bazaar</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Text Shadows</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/132676714</id>
+    <published>2010-06-09T15:33:42Z</published>
+    <updated>2010-06-09T15:33:42Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/132676714"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/132676714"/>
+    <zapi:itemID>132676714</zapi:itemID>
+    <zapi:itemType>webpage</zapi:itemType>
+    <zapi:creatorSummary/>
+    <zapi:numChildren>1</zapi:numChildren>
+    <zapi:numTags>0</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Web Page</td>
+          </tr>
+          <tr class="url">
+            <th style="text-align: right">URL</th>
+            <td>http://www.westciv.com/tools/shadows/index.html</td>
+          </tr>
+          <tr class="accessDate">
+            <th style="text-align: right">Accessed</th>
+            <td>2010-06-09 15:33:42</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>SWARCH-DL - SWIGroup Wiki</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/132676713</id>
+    <published>2010-06-08T19:52:56Z</published>
+    <updated>2010-06-08T19:52:56Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/132676713"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/132676713"/>
+    <zapi:itemID>132676713</zapi:itemID>
+    <zapi:itemType>webpage</zapi:itemType>
+    <zapi:creatorSummary/>
+    <zapi:numChildren>1</zapi:numChildren>
+    <zapi:numTags>0</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Web Page</td>
+          </tr>
+          <tr class="url">
+            <th style="text-align: right">URL</th>
+            <td>http://swig.hpclab.ceid.upatras.gr/SWARCH-DL#submission</td>
+          </tr>
+          <tr class="accessDate">
+            <th style="text-align: right">Accessed</th>
+            <td>2010-06-08 19:52:56</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Processing, JSON &amp; The New York Times | blprnt.blg</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/132676712</id>
+    <published>2010-06-07T20:27:20Z</published>
+    <updated>2010-06-07T20:27:20Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/132676712"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/132676712"/>
+    <zapi:itemID>132676712</zapi:itemID>
+    <zapi:itemType>webpage</zapi:itemType>
+    <zapi:creatorSummary/>
+    <zapi:numChildren>1</zapi:numChildren>
+    <zapi:numTags>0</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Web Page</td>
+          </tr>
+          <tr class="url">
+            <th style="text-align: right">URL</th>
+            <td>http://blog.blprnt.com/blog/blprnt/processing-json-the-new-york-times</td>
+          </tr>
+          <tr class="accessDate">
+            <th style="text-align: right">Accessed</th>
+            <td>2010-06-07 20:27:20</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Tools - Canvas Demos</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/132676711</id>
+    <published>2010-06-07T19:22:33Z</published>
+    <updated>2010-06-07T19:22:33Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/132676711"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/132676711"/>
+    <zapi:itemID>132676711</zapi:itemID>
+    <zapi:itemType>webpage</zapi:itemType>
+    <zapi:creatorSummary/>
+    <zapi:numChildren>1</zapi:numChildren>
+    <zapi:numTags>1</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Web Page</td>
+          </tr>
+          <tr class="url">
+            <th style="text-align: right">URL</th>
+            <td>http://www.canvasdemos.com/type/tools/</td>
+          </tr>
+          <tr class="accessDate">
+            <th style="text-align: right">Accessed</th>
+            <td>2010-06-07 19:22:33</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>rfc5870.txt.pdf</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/132676710</id>
+    <published>2010-06-07T15:08:03Z</published>
+    <updated>2010-06-07T15:08:04Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/132676710"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/132676710"/>
+    <link rel="enclosure" type="application/pdf" href="https://api.zotero.org/users/34550/items/132676710/file" title="rfc5870.txt.pdf" length="35920"/>
+    <zapi:itemID>132676710</zapi:itemID>
+    <zapi:itemType>attachment</zapi:itemType>
+    <zapi:numTags>0</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Attachment</td>
+          </tr>
+          <tr class="url">
+            <th style="text-align: right">URL</th>
+            <td>http://www.rfc-editor.org/rfc/pdfrfc/rfc5870.txt.pdf</td>
+          </tr>
+          <tr class="accessDate">
+            <th style="text-align: right">Accessed</th>
+            <td>2010-06-07 15:08:03</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Cardinal Directions Ontology</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/132676709</id>
+    <published>2010-06-03T19:12:21Z</published>
+    <updated>2010-06-03T19:12:36Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/132676709"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/132676709"/>
+    <zapi:itemID>132676709</zapi:itemID>
+    <zapi:itemType>webpage</zapi:itemType>
+    <zapi:creatorSummary/>
+    <zapi:numChildren>1</zapi:numChildren>
+    <zapi:numTags>0</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Web Page</td>
+          </tr>
+          <tr class="url">
+            <th style="text-align: right">URL</th>
+            <td>http://www.cs.le.ac.uk/people/ms491/cardinal-directional-predicates.owl</td>
+          </tr>
+          <tr class="accessDate">
+            <th style="text-align: right">Accessed</th>
+            <td>2010-06-03 19:12:21</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>pub147.pdf</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/132676708</id>
+    <published>2010-06-03T16:51:09Z</published>
+    <updated>2010-06-03T16:51:10Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/132676708"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/132676708"/>
+    <link rel="enclosure" type="application/pdf" href="https://api.zotero.org/users/34550/items/132676708/file" title="pub147.pdf" length="1021481"/>
+    <zapi:itemID>132676708</zapi:itemID>
+    <zapi:itemType>attachment</zapi:itemType>
+    <zapi:numTags>0</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Attachment</td>
+          </tr>
+          <tr class="url">
+            <th style="text-align: right">URL</th>
+            <td>http://www.clir.org/pubs/reports/pub147/pub147.pdf</td>
+          </tr>
+          <tr class="accessDate">
+            <th style="text-align: right">Accessed</th>
+            <td>2010-06-03 16:51:09</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>jQuery UI - Demos &amp; Documentation</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/132676707</id>
+    <published>2010-05-29T13:25:01Z</published>
+    <updated>2010-05-29T13:25:01Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/132676707"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/132676707"/>
+    <zapi:itemID>132676707</zapi:itemID>
+    <zapi:itemType>webpage</zapi:itemType>
+    <zapi:creatorSummary/>
+    <zapi:numChildren>1</zapi:numChildren>
+    <zapi:numTags>0</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Web Page</td>
+          </tr>
+          <tr class="url">
+            <th style="text-align: right">URL</th>
+            <td>http://jqueryui.com/demos/dialog/</td>
+          </tr>
+          <tr class="accessDate">
+            <th style="text-align: right">Accessed</th>
+            <td>2010-05-29 13:25:01</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Georgia State U. Sued over E-Reserves - Library Journal</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/132676706</id>
+    <published>2010-05-27T19:34:52Z</published>
+    <updated>2010-05-27T19:34:52Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/132676706"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/132676706"/>
+    <zapi:itemID>132676706</zapi:itemID>
+    <zapi:itemType>webpage</zapi:itemType>
+    <zapi:creatorSummary/>
+    <zapi:numChildren>1</zapi:numChildren>
+    <zapi:numTags>0</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Web Page</td>
+          </tr>
+          <tr class="url">
+            <th style="text-align: right">URL</th>
+            <td>http://www.libraryjournal.com/info/CA6552504.html</td>
+          </tr>
+          <tr class="accessDate">
+            <th style="text-align: right">Accessed</th>
+            <td>2010-05-27 19:34:52</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Metadata Standards Crosswalk (Research at the Getty)</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/132676705</id>
+    <published>2010-05-26T19:11:01Z</published>
+    <updated>2010-05-26T19:11:01Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/132676705"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/132676705"/>
+    <zapi:itemID>132676705</zapi:itemID>
+    <zapi:itemType>webpage</zapi:itemType>
+    <zapi:creatorSummary/>
+    <zapi:numChildren>1</zapi:numChildren>
+    <zapi:numTags>0</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Web Page</td>
+          </tr>
+          <tr class="url">
+            <th style="text-align: right">URL</th>
+            <td>http://www.getty.edu/research/conducting_research/standards/intrometadata/crosswalks.html</td>
+          </tr>
+          <tr class="accessDate">
+            <th style="text-align: right">Accessed</th>
+            <td>2010-05-26 19:11:01</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>An organization ontology: First draft | Epimorphics</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/132676704</id>
+    <published>2010-05-26T15:51:01Z</published>
+    <updated>2010-05-26T15:51:01Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/132676704"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/132676704"/>
+    <zapi:itemID>132676704</zapi:itemID>
+    <zapi:itemType>webpage</zapi:itemType>
+    <zapi:creatorSummary/>
+    <zapi:numChildren>1</zapi:numChildren>
+    <zapi:numTags>0</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Web Page</td>
+          </tr>
+          <tr class="url">
+            <th style="text-align: right">URL</th>
+            <td>http://www.epimorphics.com/web/wiki/organization-ontology-first-draft</td>
+          </tr>
+          <tr class="accessDate">
+            <th style="text-align: right">Accessed</th>
+            <td>2010-05-26 15:51:01</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Faculty Academy 2009</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/132676703</id>
+    <published>2010-05-10T12:33:46Z</published>
+    <updated>2010-05-10T12:33:46Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/132676703"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/132676703"/>
+    <zapi:itemID>132676703</zapi:itemID>
+    <zapi:itemType>artwork</zapi:itemType>
+    <zapi:creatorSummary>Slezak</zapi:creatorSummary>
+    <zapi:numChildren>2</zapi:numChildren>
+    <zapi:numTags>11</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Artwork</td>
+          </tr>
+          <tr class="creator">
+            <th style="text-align: right">Artist</th>
+            <td>Jerry Slezak</td>
+          </tr>
+          <tr class="url">
+            <th style="text-align: right">URL</th>
+            <td>http://www.flickr.com/photos/70874608@N00/3554955478/</td>
+          </tr>
+          <tr class="date">
+            <th style="text-align: right">Date</th>
+            <td>2009-05-13</td>
+          </tr>
+          <tr class="accessDate">
+            <th style="text-align: right">Accessed</th>
+            <td>2010-05-10 12:33:46</td>
+          </tr>
+          <tr class="libraryCatalog">
+            <th style="text-align: right">Library Catalog</th>
+            <td>Flickr</td>
+          </tr>
+          <tr class="abstractNote">
+            <th style="text-align: right">Abstract</th>
+            <td>University of Mary Washington
+
+University of Mary Washington, Fredericksburg, VA.
+
+University of Mary Washington, Fredericksburg, VA.
+
+University of Mary Washington, Fredericksburg, VA.
+
+University of Mary Washington, Fredericksburg, VA.</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>"My Anti-Creativity Checklist" by Youngme Moon</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/132676702</id>
+    <published>2010-05-07T16:06:36Z</published>
+    <updated>2010-05-07T16:06:36Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/132676702"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/132676702"/>
+    <zapi:itemID>132676702</zapi:itemID>
+    <zapi:itemType>videoRecording</zapi:itemType>
+    <zapi:creatorSummary>emptynoodle</zapi:creatorSummary>
+    <zapi:numChildren>0</zapi:numChildren>
+    <zapi:numTags>4</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Video Recording</td>
+          </tr>
+          <tr class="creator">
+            <th style="text-align: right">Contributor</th>
+            <td>emptynoodle</td>
+          </tr>
+          <tr class="url">
+            <th style="text-align: right">URL</th>
+            <td>http://www.youtube.com/watch?v=AsyAtkjYcEk&amp;feature=youtube_gdata</td>
+          </tr>
+          <tr class="date">
+            <th style="text-align: right">Date</th>
+            <td>2010-03-15</td>
+          </tr>
+          <tr class="accessDate">
+            <th style="text-align: right">Accessed</th>
+            <td>2010-05-07 16:06:36</td>
+          </tr>
+          <tr class="libraryCatalog">
+            <th style="text-align: right">Library Catalog</th>
+            <td>YouTube</td>
+          </tr>
+          <tr class="runningTime">
+            <th style="text-align: right">Running Time</th>
+            <td>306 seconds</td>
+          </tr>
+          <tr class="abstractNote">
+            <th style="text-align: right">Abstract</th>
+            <td>Heres a question for you:  If you had to come up with an anti-creativity checklist for your organization... a checklist guaranteed to stifle imagination, innovation, and out-of-box thinking... a checklist designed specifically for people who want nothing to do with disruptive change... what would your checklist look like?  With a wink toward the irreverent, here's mine.  (www.youngmemoon.com)</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Protecting creativity: Copyright and wrong | The Economist</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/132676701</id>
+    <published>2010-05-06T18:04:50Z</published>
+    <updated>2010-05-06T18:04:50Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/132676701"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/132676701"/>
+    <zapi:itemID>132676701</zapi:itemID>
+    <zapi:itemType>webpage</zapi:itemType>
+    <zapi:creatorSummary/>
+    <zapi:numChildren>1</zapi:numChildren>
+    <zapi:numTags>1</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Web Page</td>
+          </tr>
+          <tr class="url">
+            <th style="text-align: right">URL</th>
+            <td>http://www.economist.com/opinion/displaystory.cfm?story_id=15868004</td>
+          </tr>
+          <tr class="accessDate">
+            <th style="text-align: right">Accessed</th>
+            <td>2010-05-06 18:04:50</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>A comparison of metadata standards for media &#x2013; Authoritative Opinion</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/132676700</id>
+    <published>2010-05-06T14:41:27Z</published>
+    <updated>2010-05-06T14:41:27Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/132676700"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/132676700"/>
+    <zapi:itemID>132676700</zapi:itemID>
+    <zapi:itemType>webpage</zapi:itemType>
+    <zapi:creatorSummary/>
+    <zapi:numChildren>1</zapi:numChildren>
+    <zapi:numTags>0</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Web Page</td>
+          </tr>
+          <tr class="url">
+            <th style="text-align: right">URL</th>
+            <td>http://authoritativeopinion.com/blog/2009/11/11/a-comparison-of-metadata-standards-for-media/</td>
+          </tr>
+          <tr class="accessDate">
+            <th style="text-align: right">Accessed</th>
+            <td>2010-05-06 14:41:27</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>HTML5_Canvas_Cheat_Sheet.pdf</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/132676699</id>
+    <published>2010-05-06T12:46:52Z</published>
+    <updated>2010-05-06T12:46:53Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/132676699"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/132676699"/>
+    <link rel="enclosure" type="application/pdf" href="https://api.zotero.org/users/34550/items/132676699/file" title="HTML5_Canvas_Cheat_Sheet.pdf" length="150904"/>
+    <zapi:itemID>132676699</zapi:itemID>
+    <zapi:itemType>attachment</zapi:itemType>
+    <zapi:numTags>0</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Attachment</td>
+          </tr>
+          <tr class="url">
+            <th style="text-align: right">URL</th>
+            <td>http://www.nihilogic.dk/labs/canvas_sheet/HTML5_Canvas_Cheat_Sheet.pdf</td>
+          </tr>
+          <tr class="accessDate">
+            <th style="text-align: right">Accessed</th>
+            <td>2010-05-06 12:46:52</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>html5-cheat-sheet.pdf</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/132676698</id>
+    <published>2010-05-06T12:46:45Z</published>
+    <updated>2010-05-06T12:46:46Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/132676698"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/132676698"/>
+    <link rel="enclosure" type="application/pdf" href="https://api.zotero.org/users/34550/items/132676698/file" title="html5-cheat-sheet.pdf" length="132737"/>
+    <zapi:itemID>132676698</zapi:itemID>
+    <zapi:itemType>attachment</zapi:itemType>
+    <zapi:numTags>0</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Attachment</td>
+          </tr>
+          <tr class="url">
+            <th style="text-align: right">URL</th>
+            <td>http://media.smashingmagazine.com/cdn_smash/wp-content/uploads/images/html5-cheat-sheet/html5-cheat-sheet.pdf</td>
+          </tr>
+          <tr class="accessDate">
+            <th style="text-align: right">Accessed</th>
+            <td>2010-05-06 12:46:45</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Modules | Introduction to Logic</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/132676697</id>
+    <published>2010-05-05T15:29:34Z</published>
+    <updated>2010-05-05T15:29:34Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/132676697"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/132676697"/>
+    <zapi:itemID>132676697</zapi:itemID>
+    <zapi:itemType>webpage</zapi:itemType>
+    <zapi:creatorSummary/>
+    <zapi:numChildren>1</zapi:numChildren>
+    <zapi:numTags>0</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Web Page</td>
+          </tr>
+          <tr class="url">
+            <th style="text-align: right">URL</th>
+            <td>http://logicbook.cvasey.org/admin/build/modules</td>
+          </tr>
+          <tr class="accessDate">
+            <th style="text-align: right">Accessed</th>
+            <td>2010-05-05 15:29:34</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>W3C cheatsheet</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/132676696</id>
+    <published>2010-04-27T13:08:52Z</published>
+    <updated>2010-04-27T13:08:52Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/132676696"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/132676696"/>
+    <zapi:itemID>132676696</zapi:itemID>
+    <zapi:itemType>webpage</zapi:itemType>
+    <zapi:creatorSummary/>
+    <zapi:numChildren>1</zapi:numChildren>
+    <zapi:numTags>0</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Web Page</td>
+          </tr>
+          <tr class="url">
+            <th style="text-align: right">URL</th>
+            <td>http://www.w3.org/2009/cheatsheet/</td>
+          </tr>
+          <tr class="accessDate">
+            <th style="text-align: right">Accessed</th>
+            <td>2010-04-27 13:08:52</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Videos</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/132676695</id>
+    <published>2010-04-26T20:53:19Z</published>
+    <updated>2010-04-26T20:53:19Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/132676695"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/132676695"/>
+    <zapi:itemID>132676695</zapi:itemID>
+    <zapi:itemType>webpage</zapi:itemType>
+    <zapi:creatorSummary/>
+    <zapi:numChildren>1</zapi:numChildren>
+    <zapi:numTags>1</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Web Page</td>
+          </tr>
+          <tr class="url">
+            <th style="text-align: right">URL</th>
+            <td>http://www.law.duke.edu/cspd/video/</td>
+          </tr>
+          <tr class="accessDate">
+            <th style="text-align: right">Accessed</th>
+            <td>2010-04-26 20:53:19</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Semantic Overflow</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/132676694</id>
+    <published>2010-04-23T15:42:36Z</published>
+    <updated>2010-04-23T15:42:36Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/132676694"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/132676694"/>
+    <zapi:itemID>132676694</zapi:itemID>
+    <zapi:itemType>webpage</zapi:itemType>
+    <zapi:creatorSummary/>
+    <zapi:numChildren>1</zapi:numChildren>
+    <zapi:numTags>0</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Web Page</td>
+          </tr>
+          <tr class="url">
+            <th style="text-align: right">URL</th>
+            <td>http://www.semanticoverflow.com/</td>
+          </tr>
+          <tr class="accessDate">
+            <th style="text-align: right">Accessed</th>
+            <td>2010-04-23 15:42:36</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>lenz_complaint_final.pdf</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/132676693</id>
+    <published>2010-04-20T20:38:25Z</published>
+    <updated>2010-04-20T20:38:26Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/132676693"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/132676693"/>
+    <link rel="enclosure" type="application/pdf" href="https://api.zotero.org/users/34550/items/132676693/file" title="lenz_complaint_final.pdf" length="124900"/>
+    <zapi:itemID>132676693</zapi:itemID>
+    <zapi:itemType>attachment</zapi:itemType>
+    <zapi:numTags>0</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Attachment</td>
+          </tr>
+          <tr class="url">
+            <th style="text-align: right">URL</th>
+            <td>http://www.eff.org/files/filenode/lenz_v_universal/lenz_complaint_final.pdf</td>
+          </tr>
+          <tr class="accessDate">
+            <th style="text-align: right">Accessed</th>
+            <td>2010-04-20 20:38:25</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>United States Code: Title 17,512. Limitations on liability relating to material online | LII / Legal Information Institute</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/132676692</id>
+    <published>2010-04-20T20:37:50Z</published>
+    <updated>2010-04-20T20:37:50Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/132676692"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/132676692"/>
+    <zapi:itemID>132676692</zapi:itemID>
+    <zapi:itemType>webpage</zapi:itemType>
+    <zapi:creatorSummary/>
+    <zapi:numChildren>1</zapi:numChildren>
+    <zapi:numTags>3</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Web Page</td>
+          </tr>
+          <tr class="url">
+            <th style="text-align: right">URL</th>
+            <td>http://www.law.cornell.edu/uscode/17/usc_sec_17_00000512----000-.html#f</td>
+          </tr>
+          <tr class="accessDate">
+            <th style="text-align: right">Accessed</th>
+            <td>2010-04-20 20:37:50</td>
+          </tr>
+          <tr class="shortTitle">
+            <th style="text-align: right">Short Title</th>
+            <td>United States Code</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>dmca.pdf</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/132676690</id>
+    <published>2010-04-20T20:21:21Z</published>
+    <updated>2010-04-20T20:21:22Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/132676690"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/132676690"/>
+    <link rel="enclosure" type="application/pdf" href="https://api.zotero.org/users/34550/items/132676690/file" title="dmca.pdf" length="72756"/>
+    <zapi:itemID>132676690</zapi:itemID>
+    <zapi:itemType>attachment</zapi:itemType>
+    <zapi:numTags>0</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Attachment</td>
+          </tr>
+          <tr class="url">
+            <th style="text-align: right">URL</th>
+            <td>http://www.copyright.gov/legislation/dmca.pdf</td>
+          </tr>
+          <tr class="accessDate">
+            <th style="text-align: right">Accessed</th>
+            <td>2010-04-20 20:21:21</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Copyright Killed the Video Star</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/132676689</id>
+    <published>2010-04-13T20:08:42Z</published>
+    <updated>2010-04-13T20:08:42Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/132676689"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/132676689"/>
+    <zapi:itemID>132676689</zapi:itemID>
+    <zapi:itemType>videoRecording</zapi:itemType>
+    <zapi:creatorSummary>tristopiaTV</zapi:creatorSummary>
+    <zapi:numChildren>0</zapi:numChildren>
+    <zapi:numTags>21</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Video Recording</td>
+          </tr>
+          <tr class="creator">
+            <th style="text-align: right">Contributor</th>
+            <td>tristopiaTV</td>
+          </tr>
+          <tr class="url">
+            <th style="text-align: right">URL</th>
+            <td>http://www.youtube.com/watch?v=-qjQps9zTgk&amp;feature=youtube_gdata</td>
+          </tr>
+          <tr class="date">
+            <th style="text-align: right">Date</th>
+            <td>2009-11-10</td>
+          </tr>
+          <tr class="accessDate">
+            <th style="text-align: right">Accessed</th>
+            <td>2010-04-13 20:08:42</td>
+          </tr>
+          <tr class="libraryCatalog">
+            <th style="text-align: right">Library Catalog</th>
+            <td>YouTube</td>
+          </tr>
+          <tr class="runningTime">
+            <th style="text-align: right">Running Time</th>
+            <td>163 seconds</td>
+          </tr>
+          <tr class="abstractNote">
+            <th style="text-align: right">Abstract</th>
+            <td>This music video is a parody of Video Killed the Radio Star by The Buggles (1979), featuring the new YouTube Copyright system - and showing it affected me (I had to make this new channel after copyright issues).
+
+Download the extended version mp3 for free:
+http://www.megaupload.com/?d=BP1BALTM
+
+Subscribe and send this video to your friends!</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Adequately Good - JavaScript Module Pattern: In-Depth</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/132676688</id>
+    <published>2010-04-11T14:31:29Z</published>
+    <updated>2010-04-11T14:31:29Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/132676688"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/132676688"/>
+    <zapi:itemID>132676688</zapi:itemID>
+    <zapi:itemType>webpage</zapi:itemType>
+    <zapi:creatorSummary/>
+    <zapi:numChildren>1</zapi:numChildren>
+    <zapi:numTags>1</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Web Page</td>
+          </tr>
+          <tr class="url">
+            <th style="text-align: right">URL</th>
+            <td>http://www.adequatelygood.com/2010/3/JavaScript-Module-Pattern-In-Depth</td>
+          </tr>
+          <tr class="accessDate">
+            <th style="text-align: right">Accessed</th>
+            <td>2010-04-11 14:31:29</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>On The Media: Transcript of "Copyright's Wrong Turn" (April 9, 2010)</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/132676687</id>
+    <published>2010-04-10T14:03:53Z</published>
+    <updated>2010-04-10T14:03:53Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/132676687"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/132676687"/>
+    <zapi:itemID>132676687</zapi:itemID>
+    <zapi:itemType>webpage</zapi:itemType>
+    <zapi:creatorSummary/>
+    <zapi:numChildren>1</zapi:numChildren>
+    <zapi:numTags>0</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Web Page</td>
+          </tr>
+          <tr class="url">
+            <th style="text-align: right">URL</th>
+            <td>http://www.onthemedia.org/transcripts/2010/04/09/05</td>
+          </tr>
+          <tr class="accessDate">
+            <th style="text-align: right">Accessed</th>
+            <td>2010-04-10 14:03:53</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Stravinsky: The Rite of Spring; The Firebird Suite</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/121845375</id>
+    <published>2010-04-09T14:46:50Z</published>
+    <updated>2010-04-09T14:48:16Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/121845375"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/121845375"/>
+    <zapi:itemID>121845375</zapi:itemID>
+    <zapi:itemType>audioRecording</zapi:itemType>
+    <zapi:creatorSummary/>
+    <zapi:numChildren>1</zapi:numChildren>
+    <zapi:numTags>0</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Audio Recording</td>
+          </tr>
+          <tr class="creator">
+            <th style="text-align: right">Composer</th>
+            <td>Igor Stravinsky</td>
+          </tr>
+          <tr class="creator">
+            <th style="text-align: right">Author</th>
+            <td>Sergey Prokofiev</td>
+          </tr>
+          <tr class="creator">
+            <th style="text-align: right">Author</th>
+            <td>Leonard Bernstein</td>
+          </tr>
+          <tr class="creator">
+            <th style="text-align: right">Author</th>
+            <td>London Symphony Orchestra</td>
+          </tr>
+          <tr class="creator">
+            <th style="text-align: right">Author</th>
+            <td>New York Philharmonic</td>
+          </tr>
+          <tr class="ISBN">
+            <th style="text-align: right">ISBN</th>
+            <td>ASIN: B0001ENYLM</td>
+          </tr>
+          <tr class="date">
+            <th style="text-align: right">Date</th>
+            <td>2004-02-24</td>
+          </tr>
+          <tr class="archiveLocation">
+            <th style="text-align: right">Loc. in Archive</th>
+            <td>1234</td>
+          </tr>
+          <tr class="libraryCatalog">
+            <th style="text-align: right">Library Catalog</th>
+            <td>Amazon.com</td>
+          </tr>
+          <tr class="label">
+            <th style="text-align: right">Label</th>
+            <td>Sony</td>
+          </tr>
+          <tr class="shortTitle">
+            <th style="text-align: right">Short Title</th>
+            <td>Stravinsky</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Free Speech Unmoored in Copyright&#x2019;s Safe Harbor: Chilling Effects of the DMCA on the First Amendment</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/121845374</id>
+    <published>2010-04-07T18:36:25Z</published>
+    <updated>2010-04-07T18:36:25Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/121845374"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/121845374"/>
+    <zapi:itemID>121845374</zapi:itemID>
+    <zapi:itemType>journalArticle</zapi:itemType>
+    <zapi:creatorSummary>Seltzer</zapi:creatorSummary>
+    <zapi:numChildren>1</zapi:numChildren>
+    <zapi:numTags>2</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Journal Article</td>
+          </tr>
+          <tr class="creator">
+            <th style="text-align: right">Author</th>
+            <td>Wendy Seltzer</td>
+          </tr>
+          <tr class="url">
+            <th style="text-align: right">URL</th>
+            <td>http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1577785</td>
+          </tr>
+          <tr class="publicationTitle">
+            <th style="text-align: right">Publication</th>
+            <td>SSRN eLibrary</td>
+          </tr>
+          <tr class="date">
+            <th style="text-align: right">Date</th>
+            <td>March 2010</td>
+          </tr>
+          <tr class="accessDate">
+            <th style="text-align: right">Accessed</th>
+            <td>2010-04-07 18:36:25</td>
+          </tr>
+          <tr class="libraryCatalog">
+            <th style="text-align: right">Library Catalog</th>
+            <td>SSRN</td>
+          </tr>
+          <tr class="abstractNote">
+            <th style="text-align: right">Abstract</th>
+            <td>more blog posts are redacted, more videos deleted, and more web pages removed from Internet search results based on private claims of copyright infringement. Under the safe harbors of the Digital Millennium Copyright Act (DMCA), Internet service providers are encouraged to respond to copyright complaints with content takedowns, assuring their immunity from liability while diminishing the rights of their subscribers and users. Paradoxically, the law's shield for service providers becomes a sword against the public who depend upon these providers as platforms for speech. Under the DMCA, process for an accused infringer is limited. The law offers Internet service providers (ISPs) protection from copyright liability if they remove material expeditiously in response to unverified complaints of infringement. Even if the accused poster responds with counter-notification of non-infringement, DMCA requires the service provider to keep the post offline for more than a week. If this takedown procedure took place through the courts, it would trigger First Amendment scrutiny as a prior restraint, silencing speech before an adjudication of lawfulness. Because DMCA takedowns are privately administered through ISPs, however, they have not received such constitutional scrutiny, despite their high risk of error. I add to prior scholarly analysis of the conflict between copyright and the First Amendment by showing how the copyright notice-and-takedown regime operates in the shadow of the law, doing through private intermediaries what government could not to silence speech. In the wake of Citizens United v. FEC, why can copyright remove political videos when campaign finance law must not? This Article argues for greater constitutional scrutiny. The public is harmed by the loss of speech via indirect chilling effect no less than if the government had wrongly ordered removal of lawful postings directly. Indeed, because DMCA takedown costs less to copyright claimants than a federal complaint and exposes claimants to few risks, it invites more frequent abuse or error than standard copyright law. I describe several of the error cases in detail. The indirect nature of the chill on speech should not shield the legal regime from challenge. When non-infringing speech is taken down, not only does its poster lose an opportunity to reach an audience, the public loses the benefit of hearing that lawful speech in the marketplace of ideas. Yet under the DMCA's pressure, the poster's private incentive to counter-notify and the host's incentives to support challenged speech are often insufficient to support an optimal communication environment for the public. Instead, this set of incentives produces a blander, but not significantly less copyright infringing, information space. Copyright claimants assert that the expedited process of the DMCA is critical to suppress infringement in the highly networked digital world. While many instances of infringement are properly targeted for takedown under the DMCA, I argue that the accuracy of some takedowns does not excuse a careful examination of the rate and costs of error. I therefore recommend changes to the law to reduce the error, balancing speech protection and copyright. Part I surveys the legal, economic, and architectural sources of the DMCA's chilling effects on speech. Part II then examines the First Amendment doctrines that should guide lawmaking, with critique of copyright's place in speech law. Part III reviews the history and mechanics of the DMCA and provides examples of chilled speech and a few instances of limited warming. Finally, Part IV engages current policy debates and proposes reform to protect online speech better.</td>
+          </tr>
+          <tr class="shortTitle">
+            <th style="text-align: right">Short Title</th>
+            <td>Free Speech Unmoored in Copyright&#x2019;s Safe Harbor</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Linked Data Patterns</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/121845373</id>
+    <published>2010-04-07T17:31:31Z</published>
+    <updated>2010-04-07T17:31:31Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/121845373"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/121845373"/>
+    <zapi:itemID>121845373</zapi:itemID>
+    <zapi:itemType>webpage</zapi:itemType>
+    <zapi:creatorSummary/>
+    <zapi:numChildren>1</zapi:numChildren>
+    <zapi:numTags>0</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Web Page</td>
+          </tr>
+          <tr class="url">
+            <th style="text-align: right">URL</th>
+            <td>http://patterns.dataincubator.org/book/</td>
+          </tr>
+          <tr class="accessDate">
+            <th style="text-align: right">Accessed</th>
+            <td>2010-04-07 17:31:31</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Shredded Tweet</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/121845372</id>
+    <published>2010-04-06T15:43:21Z</published>
+    <updated>2010-04-06T15:43:21Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/121845372"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/121845372"/>
+    <zapi:itemID>121845372</zapi:itemID>
+    <zapi:itemType>webpage</zapi:itemType>
+    <zapi:creatorSummary/>
+    <zapi:numChildren>1</zapi:numChildren>
+    <zapi:numTags>1</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Web Page</td>
+          </tr>
+          <tr class="url">
+            <th style="text-align: right">URL</th>
+            <td>http://pegasus.chem.soton.ac.uk/</td>
+          </tr>
+          <tr class="accessDate">
+            <th style="text-align: right">Accessed</th>
+            <td>2010-04-06 15:43:21</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Clash of the Titans</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/121003683</id>
+    <published>2010-04-05T16:32:28Z</published>
+    <updated>2010-04-05T16:32:28Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/121003683"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/121003683"/>
+    <zapi:itemID>121003683</zapi:itemID>
+    <zapi:itemType>videoRecording</zapi:itemType>
+    <zapi:creatorSummary>Davis</zapi:creatorSummary>
+    <zapi:numChildren>1</zapi:numChildren>
+    <zapi:numTags>0</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Video Recording</td>
+          </tr>
+          <tr class="creator">
+            <th style="text-align: right">Cast Member</th>
+            <td>Laurence Olivier</td>
+          </tr>
+          <tr class="creator">
+            <th style="text-align: right">Cast Member</th>
+            <td>Harry Hamlin</td>
+          </tr>
+          <tr class="creator">
+            <th style="text-align: right">Cast Member</th>
+            <td>Claire Bloom</td>
+          </tr>
+          <tr class="creator">
+            <th style="text-align: right">Cast Member</th>
+            <td>Maggie Smith</td>
+          </tr>
+          <tr class="creator">
+            <th style="text-align: right">Cast Member</th>
+            <td>Ursula Andress</td>
+          </tr>
+          <tr class="creator">
+            <th style="text-align: right">Director</th>
+            <td>Desmond Davis</td>
+          </tr>
+          <tr class="ISBN">
+            <th style="text-align: right">ISBN</th>
+            <td>0790745496</td>
+          </tr>
+          <tr class="date">
+            <th style="text-align: right">Date</th>
+            <td>2004-06-01</td>
+          </tr>
+          <tr class="extra">
+            <th style="text-align: right">Extra</th>
+            <td>1981-01-01</td>
+          </tr>
+          <tr class="libraryCatalog">
+            <th style="text-align: right">Library Catalog</th>
+            <td>Amazon.com</td>
+          </tr>
+          <tr class="studio">
+            <th style="text-align: right">Studio</th>
+            <td>Warner Home Video</td>
+          </tr>
+          <tr class="runningTime">
+            <th style="text-align: right">Running Time</th>
+            <td>118</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Physical Mesomechanics of Heterogeneous Media and Computer-Aided Design of Materials</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/121003682</id>
+    <published>2010-04-05T16:31:35Z</published>
+    <updated>2010-04-05T16:31:35Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/121003682"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/121003682"/>
+    <zapi:itemID>121003682</zapi:itemID>
+    <zapi:itemType>book</zapi:itemType>
+    <zapi:creatorSummary>NetLibrary, Inc</zapi:creatorSummary>
+    <zapi:numChildren>0</zapi:numChildren>
+    <zapi:numTags>5</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Book</td>
+          </tr>
+          <tr class="creator">
+            <th style="text-align: right">Author</th>
+            <td>NetLibrary, Inc</td>
+          </tr>
+          <tr class="place">
+            <th style="text-align: right">Place</th>
+            <td>Cambridge</td>
+          </tr>
+          <tr class="publisher">
+            <th style="text-align: right">Publisher</th>
+            <td>Cambridge International Science</td>
+          </tr>
+          <tr class="ISBN">
+            <th style="text-align: right">ISBN</th>
+            <td>0585173702</td>
+          </tr>
+          <tr class="date">
+            <th style="text-align: right">Date</th>
+            <td>1998</td>
+          </tr>
+          <tr class="callNumber">
+            <th style="text-align: right">Call Number</th>
+            <td>NetLibrary</td>
+          </tr>
+          <tr class="libraryCatalog">
+            <th style="text-align: right">Library Catalog</th>
+            <td>www.library.umw.edu Library Catalog</td>
+          </tr>
+          <tr class="numPages">
+            <th style="text-align: right"># of Pages</th>
+            <td>339</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Digital Space: Designing Virtual Environments</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/121003681</id>
+    <published>2010-04-05T16:31:32Z</published>
+    <updated>2010-04-05T16:31:32Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/121003681"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/121003681"/>
+    <zapi:itemID>121003681</zapi:itemID>
+    <zapi:itemType>book</zapi:itemType>
+    <zapi:creatorSummary>Weishar</zapi:creatorSummary>
+    <zapi:numChildren>0</zapi:numChildren>
+    <zapi:numTags>4</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Book</td>
+          </tr>
+          <tr class="creator">
+            <th style="text-align: right">Author</th>
+            <td>Peter Weishar</td>
+          </tr>
+          <tr class="place">
+            <th style="text-align: right">Place</th>
+            <td>New York</td>
+          </tr>
+          <tr class="publisher">
+            <th style="text-align: right">Publisher</th>
+            <td>McGraw-Hill</td>
+          </tr>
+          <tr class="ISBN">
+            <th style="text-align: right">ISBN</th>
+            <td>007069611X</td>
+          </tr>
+          <tr class="date">
+            <th style="text-align: right">Date</th>
+            <td>1998</td>
+          </tr>
+          <tr class="callNumber">
+            <th style="text-align: right">Call Number</th>
+            <td>NA2728 .W43 1998</td>
+          </tr>
+          <tr class="libraryCatalog">
+            <th style="text-align: right">Library Catalog</th>
+            <td>www.library.umw.edu Library Catalog</td>
+          </tr>
+          <tr class="shortTitle">
+            <th style="text-align: right">Short Title</th>
+            <td>Digital Space</td>
+          </tr>
+          <tr class="numPages">
+            <th style="text-align: right"># of Pages</th>
+            <td>248</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Graphic Design Sources</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/121003680</id>
+    <published>2010-04-05T16:31:28Z</published>
+    <updated>2010-04-05T16:31:28Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/121003680"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/121003680"/>
+    <zapi:itemID>121003680</zapi:itemID>
+    <zapi:itemType>book</zapi:itemType>
+    <zapi:creatorSummary>Hiebert</zapi:creatorSummary>
+    <zapi:numChildren>0</zapi:numChildren>
+    <zapi:numTags>5</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Book</td>
+          </tr>
+          <tr class="creator">
+            <th style="text-align: right">Author</th>
+            <td>Kenneth J Hiebert</td>
+          </tr>
+          <tr class="place">
+            <th style="text-align: right">Place</th>
+            <td>New Haven</td>
+          </tr>
+          <tr class="publisher">
+            <th style="text-align: right">Publisher</th>
+            <td>Yale University Press</td>
+          </tr>
+          <tr class="ISBN">
+            <th style="text-align: right">ISBN</th>
+            <td>0300074611</td>
+          </tr>
+          <tr class="date">
+            <th style="text-align: right">Date</th>
+            <td>1998</td>
+          </tr>
+          <tr class="callNumber">
+            <th style="text-align: right">Call Number</th>
+            <td>NC1000 .H55 1998</td>
+          </tr>
+          <tr class="libraryCatalog">
+            <th style="text-align: right">Library Catalog</th>
+            <td>www.library.umw.edu Library Catalog</td>
+          </tr>
+          <tr class="numPages">
+            <th style="text-align: right"># of Pages</th>
+            <td>224</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Learn AutoCAD LT 2000 for Architects</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/121003679</id>
+    <published>2010-04-05T16:31:24Z</published>
+    <updated>2010-04-05T16:31:24Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/121003679"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/121003679"/>
+    <zapi:itemID>121003679</zapi:itemID>
+    <zapi:itemType>book</zapi:itemType>
+    <zapi:creatorSummary>Padgett and NetLibrary, Inc</zapi:creatorSummary>
+    <zapi:numChildren>0</zapi:numChildren>
+    <zapi:numTags>5</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Book</td>
+          </tr>
+          <tr class="creator">
+            <th style="text-align: right">Author</th>
+            <td>James Padgett</td>
+          </tr>
+          <tr class="creator">
+            <th style="text-align: right">Author</th>
+            <td>NetLibrary, Inc</td>
+          </tr>
+          <tr class="series">
+            <th style="text-align: right">Series</th>
+            <td>Wordware AutoCAD LT library</td>
+          </tr>
+          <tr class="place">
+            <th style="text-align: right">Place</th>
+            <td>Plano, Tex</td>
+          </tr>
+          <tr class="publisher">
+            <th style="text-align: right">Publisher</th>
+            <td>Wordware Pub</td>
+          </tr>
+          <tr class="ISBN">
+            <th style="text-align: right">ISBN</th>
+            <td>058540335X</td>
+          </tr>
+          <tr class="date">
+            <th style="text-align: right">Date</th>
+            <td>2001</td>
+          </tr>
+          <tr class="callNumber">
+            <th style="text-align: right">Call Number</th>
+            <td>NetLibrary</td>
+          </tr>
+          <tr class="libraryCatalog">
+            <th style="text-align: right">Library Catalog</th>
+            <td>www.library.umw.edu Library Catalog</td>
+          </tr>
+          <tr class="numPages">
+            <th style="text-align: right"># of Pages</th>
+            <td>410</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Inside AutoCAD 2002</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/121003678</id>
+    <published>2010-04-05T16:31:20Z</published>
+    <updated>2010-04-05T16:31:20Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/121003678"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/121003678"/>
+    <zapi:itemID>121003678</zapi:itemID>
+    <zapi:itemType>book</zapi:itemType>
+    <zapi:creatorSummary>Harrington</zapi:creatorSummary>
+    <zapi:numChildren>0</zapi:numChildren>
+    <zapi:numTags>4</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Book</td>
+          </tr>
+          <tr class="creator">
+            <th style="text-align: right">Author</th>
+            <td>David Harrington</td>
+          </tr>
+          <tr class="creator">
+            <th style="text-align: right">Contributor</th>
+            <td>Bill Burchard</td>
+          </tr>
+          <tr class="creator">
+            <th style="text-align: right">Contributor</th>
+            <td>David Pitzer</td>
+          </tr>
+          <tr class="creator">
+            <th style="text-align: right">Contributor</th>
+            <td>Safari Tech Books Online</td>
+          </tr>
+          <tr class="place">
+            <th style="text-align: right">Place</th>
+            <td>Indianapolis, IN</td>
+          </tr>
+          <tr class="publisher">
+            <th style="text-align: right">Publisher</th>
+            <td>New Riders</td>
+          </tr>
+          <tr class="date">
+            <th style="text-align: right">Date</th>
+            <td>2002</td>
+          </tr>
+          <tr class="callNumber">
+            <th style="text-align: right">Call Number</th>
+            <td>INTERNET</td>
+          </tr>
+          <tr class="libraryCatalog">
+            <th style="text-align: right">Library Catalog</th>
+            <td>www.library.umw.edu Library Catalog</td>
+          </tr>
+          <tr class="numPages">
+            <th style="text-align: right"># of Pages</th>
+            <td>1223</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Expressive Form a Conceptual Approach to Computational Design</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/121003677</id>
+    <published>2010-04-05T16:31:13Z</published>
+    <updated>2010-04-05T16:31:13Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/121003677"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/121003677"/>
+    <zapi:itemID>121003677</zapi:itemID>
+    <zapi:itemType>book</zapi:itemType>
+    <zapi:creatorSummary>Terzidis and NetLibrary, Inc</zapi:creatorSummary>
+    <zapi:numChildren>0</zapi:numChildren>
+    <zapi:numTags>6</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Book</td>
+          </tr>
+          <tr class="creator">
+            <th style="text-align: right">Author</th>
+            <td>Kostas Terzidis</td>
+          </tr>
+          <tr class="creator">
+            <th style="text-align: right">Author</th>
+            <td>NetLibrary, Inc</td>
+          </tr>
+          <tr class="place">
+            <th style="text-align: right">Place</th>
+            <td>London</td>
+          </tr>
+          <tr class="publisher">
+            <th style="text-align: right">Publisher</th>
+            <td>Spon Press</td>
+          </tr>
+          <tr class="ISBN">
+            <th style="text-align: right">ISBN</th>
+            <td>0203586891</td>
+          </tr>
+          <tr class="date">
+            <th style="text-align: right">Date</th>
+            <td>2003</td>
+          </tr>
+          <tr class="callNumber">
+            <th style="text-align: right">Call Number</th>
+            <td>NetLibrary</td>
+          </tr>
+          <tr class="libraryCatalog">
+            <th style="text-align: right">Library Catalog</th>
+            <td>www.library.umw.edu Library Catalog</td>
+          </tr>
+          <tr class="numPages">
+            <th style="text-align: right"># of Pages</th>
+            <td>90</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>AutoCAD 2005 and AutoCAD LT 2005 No Experience Required</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/121003676</id>
+    <published>2010-04-05T16:31:09Z</published>
+    <updated>2010-04-05T16:31:09Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/121003676"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/121003676"/>
+    <zapi:itemID>121003676</zapi:itemID>
+    <zapi:itemType>book</zapi:itemType>
+    <zapi:creatorSummary>Frey and NetLibrary, Inc</zapi:creatorSummary>
+    <zapi:numChildren>0</zapi:numChildren>
+    <zapi:numTags>4</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Book</td>
+          </tr>
+          <tr class="creator">
+            <th style="text-align: right">Author</th>
+            <td>David Frey</td>
+          </tr>
+          <tr class="creator">
+            <th style="text-align: right">Author</th>
+            <td>NetLibrary, Inc</td>
+          </tr>
+          <tr class="series">
+            <th style="text-align: right">Series</th>
+            <td>No experience required</td>
+          </tr>
+          <tr class="place">
+            <th style="text-align: right">Place</th>
+            <td>San Francisco, [Calif.]</td>
+          </tr>
+          <tr class="publisher">
+            <th style="text-align: right">Publisher</th>
+            <td>Sybex</td>
+          </tr>
+          <tr class="ISBN">
+            <th style="text-align: right">ISBN</th>
+            <td>1417555807</td>
+          </tr>
+          <tr class="date">
+            <th style="text-align: right">Date</th>
+            <td>2004</td>
+          </tr>
+          <tr class="callNumber">
+            <th style="text-align: right">Call Number</th>
+            <td>NetLibrary</td>
+          </tr>
+          <tr class="libraryCatalog">
+            <th style="text-align: right">Library Catalog</th>
+            <td>www.library.umw.edu Library Catalog</td>
+          </tr>
+          <tr class="numPages">
+            <th style="text-align: right"># of Pages</th>
+            <td>667</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Cam Design Handbook</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/121003675</id>
+    <published>2010-04-05T16:31:05Z</published>
+    <updated>2010-04-05T16:31:05Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/121003675"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/121003675"/>
+    <zapi:itemID>121003675</zapi:itemID>
+    <zapi:itemType>book</zapi:itemType>
+    <zapi:creatorSummary>Rothbart and NetLibrary, Inc</zapi:creatorSummary>
+    <zapi:numChildren>0</zapi:numChildren>
+    <zapi:numTags>4</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Book</td>
+          </tr>
+          <tr class="creator">
+            <th style="text-align: right">Contributor</th>
+            <td>Harold A Rothbart</td>
+          </tr>
+          <tr class="creator">
+            <th style="text-align: right">Contributor</th>
+            <td>NetLibrary, Inc</td>
+          </tr>
+          <tr class="place">
+            <th style="text-align: right">Place</th>
+            <td>New York</td>
+          </tr>
+          <tr class="publisher">
+            <th style="text-align: right">Publisher</th>
+            <td>McGraw-Hill</td>
+          </tr>
+          <tr class="ISBN">
+            <th style="text-align: right">ISBN</th>
+            <td>0071433287</td>
+          </tr>
+          <tr class="date">
+            <th style="text-align: right">Date</th>
+            <td>2004</td>
+          </tr>
+          <tr class="callNumber">
+            <th style="text-align: right">Call Number</th>
+            <td>NetLibrary</td>
+          </tr>
+          <tr class="libraryCatalog">
+            <th style="text-align: right">Library Catalog</th>
+            <td>www.library.umw.edu Library Catalog</td>
+          </tr>
+          <tr class="numPages">
+            <th style="text-align: right"># of Pages</th>
+            <td>606</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Architecture's New Media: Principles, Theories, and Methods of Computer-Aided Design</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/121003674</id>
+    <published>2010-04-05T16:31:01Z</published>
+    <updated>2010-04-05T16:31:01Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/121003674"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/121003674"/>
+    <zapi:itemID>121003674</zapi:itemID>
+    <zapi:itemType>book</zapi:itemType>
+    <zapi:creatorSummary>Kalay</zapi:creatorSummary>
+    <zapi:numChildren>0</zapi:numChildren>
+    <zapi:numTags>3</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Book</td>
+          </tr>
+          <tr class="creator">
+            <th style="text-align: right">Author</th>
+            <td>Yehuda E Kalay</td>
+          </tr>
+          <tr class="place">
+            <th style="text-align: right">Place</th>
+            <td>Cambridge, Mass</td>
+          </tr>
+          <tr class="publisher">
+            <th style="text-align: right">Publisher</th>
+            <td>MIT Press</td>
+          </tr>
+          <tr class="ISBN">
+            <th style="text-align: right">ISBN</th>
+            <td>0262112841</td>
+          </tr>
+          <tr class="date">
+            <th style="text-align: right">Date</th>
+            <td>2004</td>
+          </tr>
+          <tr class="callNumber">
+            <th style="text-align: right">Call Number</th>
+            <td>NA2728 .K35 2004</td>
+          </tr>
+          <tr class="libraryCatalog">
+            <th style="text-align: right">Library Catalog</th>
+            <td>www.library.umw.edu Library Catalog</td>
+          </tr>
+          <tr class="shortTitle">
+            <th style="text-align: right">Short Title</th>
+            <td>Architecture's New Media</td>
+          </tr>
+          <tr class="numPages">
+            <th style="text-align: right"># of Pages</th>
+            <td>536</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Modular Design for Machine Tools</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/121003673</id>
+    <published>2010-04-05T16:30:57Z</published>
+    <updated>2010-04-05T16:30:57Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/121003673"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/121003673"/>
+    <zapi:itemID>121003673</zapi:itemID>
+    <zapi:itemType>book</zapi:itemType>
+    <zapi:creatorSummary>It&#x14D; and NetLibrary, Inc</zapi:creatorSummary>
+    <zapi:numChildren>0</zapi:numChildren>
+    <zapi:numTags>5</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Book</td>
+          </tr>
+          <tr class="creator">
+            <th style="text-align: right">Author</th>
+            <td>Y. It&#x14D;</td>
+          </tr>
+          <tr class="creator">
+            <th style="text-align: right">Author</th>
+            <td>NetLibrary, Inc</td>
+          </tr>
+          <tr class="series">
+            <th style="text-align: right">Series</th>
+            <td>McGraw Hill professional</td>
+          </tr>
+          <tr class="place">
+            <th style="text-align: right">Place</th>
+            <td>New York</td>
+          </tr>
+          <tr class="publisher">
+            <th style="text-align: right">Publisher</th>
+            <td>McGraw-Hill</td>
+          </tr>
+          <tr class="ISBN">
+            <th style="text-align: right">ISBN</th>
+            <td>9780071595773</td>
+          </tr>
+          <tr class="date">
+            <th style="text-align: right">Date</th>
+            <td>2008</td>
+          </tr>
+          <tr class="callNumber">
+            <th style="text-align: right">Call Number</th>
+            <td>NetLibrary</td>
+          </tr>
+          <tr class="libraryCatalog">
+            <th style="text-align: right">Library Catalog</th>
+            <td>www.library.umw.edu Library Catalog</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>How to Make a Documentary About Sampling--Legally - Culture - The Atlantic</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/120985110</id>
+    <published>2010-04-04T03:01:01Z</published>
+    <updated>2010-04-04T03:01:01Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/120985110"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/120985110"/>
+    <zapi:itemID>120985110</zapi:itemID>
+    <zapi:itemType>webpage</zapi:itemType>
+    <zapi:creatorSummary/>
+    <zapi:numChildren>1</zapi:numChildren>
+    <zapi:numTags>0</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Web Page</td>
+          </tr>
+          <tr class="url">
+            <th style="text-align: right">URL</th>
+            <td>http://www.theatlantic.com/culture/archive/2010/03/how-to-make-a-documentary-about-sampling-legally/38189/</td>
+          </tr>
+          <tr class="accessDate">
+            <th style="text-align: right">Accessed</th>
+            <td>2010-04-04 03:01:01</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Tabla Demonstration</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/120985109</id>
+    <published>2010-04-02T19:44:47Z</published>
+    <updated>2010-04-02T19:44:58Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/120985109"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/120985109"/>
+    <zapi:itemID>120985109</zapi:itemID>
+    <zapi:itemType>audioRecording</zapi:itemType>
+    <zapi:creatorSummary>Artists</zapi:creatorSummary>
+    <zapi:numChildren>1</zapi:numChildren>
+    <zapi:numTags>0</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Audio Recording</td>
+          </tr>
+          <tr class="creator">
+            <th style="text-align: right">Performer</th>
+            <td>Various Artists</td>
+          </tr>
+          <tr class="date">
+            <th style="text-align: right">Date</th>
+            <td>2004-10-01</td>
+          </tr>
+          <tr class="libraryCatalog">
+            <th style="text-align: right">Library Catalog</th>
+            <td>Amazon.com</td>
+          </tr>
+          <tr class="label">
+            <th style="text-align: right">Label</th>
+            <td>Hollywood Music Center</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>The Norton Recordings /Seventh Edition Vol.1 Gregorian Chant to Beethoven</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/120985108</id>
+    <published>2010-04-02T19:42:15Z</published>
+    <updated>2010-04-02T19:42:15Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/120985108"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/120985108"/>
+    <zapi:itemID>120985108</zapi:itemID>
+    <zapi:itemType>audioRecording</zapi:itemType>
+    <zapi:creatorSummary/>
+    <zapi:numChildren>1</zapi:numChildren>
+    <zapi:numTags>0</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Audio Recording</td>
+          </tr>
+          <tr class="libraryCatalog">
+            <th style="text-align: right">Library Catalog</th>
+            <td>Amazon.com</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Amazon.com: Ives: Symphony No. 1; Three Places in New England: Charles Ives, Eugene Ormandy, Leopold Stokowski, American Symphony Orchestra, Philadelphia Orchestra: Music</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/120985107</id>
+    <published>2010-04-02T19:39:15Z</published>
+    <updated>2010-04-02T19:39:15Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/120985107"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/120985107"/>
+    <zapi:itemID>120985107</zapi:itemID>
+    <zapi:itemType>webpage</zapi:itemType>
+    <zapi:creatorSummary/>
+    <zapi:numChildren>1</zapi:numChildren>
+    <zapi:numTags>0</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Web Page</td>
+          </tr>
+          <tr class="url">
+            <th style="text-align: right">URL</th>
+            <td>http://www.amazon.com/Ives-Symphony-Three-Places-England/dp/B00005YISZ/ref=sr_1_1?ie=UTF8&amp;s=music&amp;qid=1270236977&amp;sr=1-1</td>
+          </tr>
+          <tr class="accessDate">
+            <th style="text-align: right">Accessed</th>
+            <td>2010-04-02 19:39:15</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Start Page | Musicbrainz D2R Server</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/120985106</id>
+    <published>2010-04-02T18:14:11Z</published>
+    <updated>2010-04-02T18:14:11Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/120985106"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/120985106"/>
+    <zapi:itemID>120985106</zapi:itemID>
+    <zapi:itemType>webpage</zapi:itemType>
+    <zapi:creatorSummary/>
+    <zapi:numChildren>1</zapi:numChildren>
+    <zapi:numTags>0</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Web Page</td>
+          </tr>
+          <tr class="url">
+            <th style="text-align: right">URL</th>
+            <td>http://dbtune.org/musicbrainz/</td>
+          </tr>
+          <tr class="accessDate">
+            <th style="text-align: right">Accessed</th>
+            <td>2010-04-02 18:14:11</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Verdi: Requiem &amp; Operatic Choruses</title>
+    <author>
+      <name>patrickmj</name>
+      <uri>http://zotero.org/patrickmj</uri>
+    </author>
+    <id>http://zotero.org/users/34550/items/120985105</id>
+    <published>2010-04-02T17:43:11Z</published>
+    <updated>2010-04-05T19:06:14Z</updated>
+    <link rel="self" type="application/atom+xml" href="https://api.zotero.org/users/34550/items/120985105"/>
+    <link rel="alternate" type="text/html" href="http://zotero.org/patrickmj/items/120985105"/>
+    <zapi:itemID>120985105</zapi:itemID>
+    <zapi:itemType>audioRecording</zapi:itemType>
+    <zapi:creatorSummary>Curry et al.</zapi:creatorSummary>
+    <zapi:numChildren>1</zapi:numChildren>
+    <zapi:numTags>0</zapi:numTags>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table>
+          <tr class="itemType">
+            <th style="text-align: right">Type</th>
+            <td>Audio Recording</td>
+          </tr>
+          <tr class="creator">
+            <th style="text-align: right">Author</th>
+            <td>Paul Plishka</td>
+          </tr>
+          <tr class="creator">
+            <th style="text-align: right">Composer</th>
+            <td>Giuseppe Verdi</td>
+          </tr>
+          <tr class="creator">
+            <th style="text-align: right">Contributor</th>
+            <td>Robert Shaw</td>
+          </tr>
+          <tr class="creator">
+            <th style="text-align: right">Performer</th>
+            <td>Diane Curry</td>
+          </tr>
+          <tr class="creator">
+            <th style="text-align: right">Performer</th>
+            <td>Atlanta Symphony Orchestra</td>
+          </tr>
+          <tr class="creator">
+            <th style="text-align: right">Performer</th>
+            <td>Atlanta Symphony Orchestra &amp; Chorus</td>
+          </tr>
+          <tr class="creator">
+            <th style="text-align: right">Performer</th>
+            <td>Susan Dunn</td>
+          </tr>
+          <tr class="creator">
+            <th style="text-align: right">Performer</th>
+            <td>Jerry Hadley</td>
+          </tr>
+          <tr class="date">
+            <th style="text-align: right">Date</th>
+            <td>1990-10-25</td>
+          </tr>
+          <tr class="callNumber">
+            <th style="text-align: right">Call Number</th>
+            <td>123</td>
+          </tr>
+          <tr class="libraryCatalog">
+            <th style="text-align: right">Library Catalog</th>
+            <td>Amazon.com</td>
+          </tr>
+          <tr class="label">
+            <th style="text-align: right">Label</th>
+            <td>Telarc</td>
+          </tr>
+          <tr class="shortTitle">
+            <th style="text-align: right">Short Title</th>
+            <td>Verdi</td>
+          </tr>
+        </table>
+      </div>
+    </content>
+  </entry>
+</feed>
