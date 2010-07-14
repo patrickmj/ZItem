@@ -1,8 +1,9 @@
 <?php
 
-define('PHP_ZOTERO_ENTRIES_ARC_PATH', '../../arc/ARC2.php');
-define('PHP_ZOTERO_ENTRIES_BASE_URI', 'http://github.com/patrickmj/ZItem');
-require_once(PHP_ZOTERO_ENTRIES_ARC_PATH);
+
+/**
+ * @class phpZoteroEntry a class for processing an individual Atom Entry from the Zotero API feed
+ */
 
 class phpZoteroEntry {
 
@@ -15,9 +16,18 @@ class phpZoteroEntry {
     public $itemType;
     public $dateAdded;
     public $dateModified;
-    public $arcConf;
-    public $arcIndex = false; // if ARC is present and a related method is called, this becomes an array in ARC2's index structure
     
+    /**
+     * $arcConf a configuration array for ARC2 (e.g., namespace declarations)
+     */
+    public $arcConf;
+    public $arcIndex = false; // an array in ARC2's index structure
+    
+    
+    /**
+     * __construct
+     * @param $xml an xml structure for the Atom Entry (string or DOMNode)
+     */
     
     public function __construct($xml) {
       $this->dom = new DOMDocument();
@@ -67,15 +77,30 @@ class phpZoteroEntry {
       unset($this->dom);
       unset($this->xpath);
     }
+    
+    /**
+     * getFields get the fields array for the zotero item
+     * @return array the fields
+     */
         
     public function getFields() {
     	return $this->fields;
     }
 
+    /**
+     * getNSMapJson get the namespace map for ARC2 structures as JSON
+     * @@return string json encoded object
+     */
+
     public function getNSMapJson() {
       return json_encode($this->arcConf['ns'], true);
     }
     
+    /**
+     * getFieldValue get the value for a field on the zotero item
+     * @param $field the field name
+     * @return string the value
+     */
     public function getFieldValue($field) {
     	if($$this->fieldExists($field)) {
     		return $this->fields[$field];
@@ -95,10 +120,20 @@ class phpZoteroEntry {
       return $this->dateModified;	
     }
     
+    /**
+     * getFieldsAsJson get all the item's fields as JSON
+     * @return string json encoded object
+     */
+    
     public function getFieldsAsJson() {
     	return json_encode($this->fields, true);
     }
     
+    /**
+     * getItemAsJson get the item as json
+     * @param $encode default = true. whether to json_encode the PHP object
+     * @return mixed either a json encoded string, or a PHP stdClass object 
+     */
     public function getItemAsJson($encode = true) {
     	$itemObj = new StdClass();
       $itemObj->uri = $this->itemUri;
@@ -112,6 +147,12 @@ class phpZoteroEntry {
       return $itemObj;
     }
     
+    /**
+     * getEntryAsJson get the complete entry as json
+     * @param $encode default = true. whether to json_encode the PHP object
+     * @return mixed either a json encoded string, or a PHP stdClass object  
+     */
+     
     public function getEntryAsJson($encode = true) {
     	$entryObj = new StdClass();
       $entryObj->itemUri = $this->itemUri;
@@ -122,10 +163,20 @@ class phpZoteroEntry {
       }
       return $entryObj;
     }
-    
+    /**
+     * fieldExists check whether a field exists for the zotero item
+     * @param $field the field
+     * @return boolean 
+     */
     public function fieldExists($field) {
     	return array_key_exists($field, $this->fields);
     }
+    
+    /**
+     * getArcIndex return an index in ARC2's index structure.
+     * @throws Exception if PHP_ZOTERO_ENTRIES_ARC_PATH is not defined
+     * @return array
+     */
     
     public function getArcIndex() {
       if( ! defined('PHP_ZOTERO_ENTRIES_ARC_PATH') ) {
@@ -136,6 +187,12 @@ class phpZoteroEntry {
       }
       return $this->arcIndex;    	
     }
+    
+    /**
+     * getEntryAsRdf returns the BIBO RDF for the entire Entry
+     * @param $format default 'rdf/xml' the rdf serialization to use
+     * @return string the RDF serialization
+     */
     
     public function getEntryAsRdf($format = 'rdf/xml') {
       if( ! defined('PHP_ZOTERO_ENTRIES_ARC_PATH') ) {
@@ -167,6 +224,14 @@ class phpZoteroEntry {
       return $ser->getSerializedIndex($this->arcIndex);    	
     }
     
+    
+    /**
+     * getItemAsRdf returns the BIBO RDF for the entire Zotero Item
+     * @param $format default 'rdf/xml' the rdf serialization to use
+     * @return string the RDF serialization
+     * @throw Exception if PHP_ZOTERO_ENTRIES_ARC_PATH is not defined
+     */
+        
     public function getItemAsRdf($format = 'rdf/xml') {
 
       if( ! defined('PHP_ZOTERO_ENTRIES_ARC_PATH') ) {
@@ -198,7 +263,15 @@ class phpZoteroEntry {
       return $ser->getSerializedIndex(array($this->itemUri=>$this->arcIndex[$this->itemUri]));
     }
     
+    /**
+     * setRDF sets the ARC2 Index for the entry
+     * @throw Exception if PHP_ZOTERO_ENTRIES_ARC_PATH is not defined
+     */
     public function setRdf() {
+      if( ! defined('PHP_ZOTERO_ENTRIES_ARC_PATH') ) {
+        throw new Exception('PHP_ZOTERO_ENTRIES_ARC_PATH must be defined and valid to use RDF methods');
+      }
+      require_once(PHP_ZOTERO_ENTRIES_ARC_PATH);        
       $this->arcIndex = array();
       $this->arcIndex[$this->itemUri] = array();
       $props = array();

@@ -1,8 +1,12 @@
-ZItem is meant to help work with the Zotero items that appear in the ATOM response. (See http://www.zotero.org/support/dev/server_api)
+Classes in ZItem are meant to help work with the Zotero items that appear in the ATOM response. (See http://www.zotero.org/support/dev/server_api)
+Part of the goal is to make them work well in conjunction with Jeremy Boggs' phpZotero class http://github.com/clioweb/phpZotero
+
 
 An item can be passed either as a string of XML or as the DOMElement.
 
 If you use the ARC framework for RDF (http://arc.semsol.org), the getItemAsRdf method will build BIBO-based rdf for the item 
+
+phpZoteroEntry
 
 
 Methods:
@@ -27,4 +31,9 @@ returns all information about the item as a JSON object
 
 getItemAsRdf($itemURI, $format)
 $itemURI is the uri to assign to the item
-$format is the serialization format for the RDF, one of 'rdf/xml' (default) , 'rdf/json', 'ntriples', 'turtle' 
+$format is the serialization format for the RDF, one of 'rdf/xml' (default) , 'rdf/json', 'ntriples', 'turtle'
+
+
+
+phpZoteroEntries:
+ 
